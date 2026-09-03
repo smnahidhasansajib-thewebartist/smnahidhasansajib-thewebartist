@@ -8,7 +8,7 @@
 - 💬 **Ask me about:** Full-Stack Web Development (MERN Stack, Next.js, PostgreSQL).
 - 🌐 **Portfolio:** [yourportfolio.com](https://smnahidhasansajib.com)
 - 📝 **Articles:** I share my insights on [LinkedIn](https://linkedin.com/in/s-m-nahid-hasan-sajib-721534432/).
-- 📫 **Reach Me:** [your.email@example.com](mailto:smnahidhasansajib@gmail.com)
+- 📫 **Reach Me:** [](mailto:smnahidhasansajib@gmail.com)
 
 ---
 
