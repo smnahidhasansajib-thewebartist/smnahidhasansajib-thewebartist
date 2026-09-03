@@ -6,9 +6,9 @@
 - 🗄️ **Backend:** Building scalable APIs with **Node.js, Express.js, MongoDB, PostgreSQL,** and **Prisma**.
 - 🛠️ **Currently Learning:** **React Native, GraphQL, Docker,** and **AWS**.
 - 💬 **Ask me about:** Full-Stack Web Development (MERN Stack, Next.js, PostgreSQL).
-- 🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
-- 📝 **Articles:** I share my insights on [LinkedIn](https://linkedin.com/in/yourusername).
-- 📫 **Reach Me:** [your.email@example.com](mailto:your.email@example.com)
+- 🌐 **Portfolio:** [yourportfolio.com](https://smnahidhasansajib.com)
+- 📝 **Articles:** I share my insights on [LinkedIn](https://linkedin.com/in/s-m-nahid-hasan-sajib-721534432/).
+- 📫 **Reach Me:** [your.email@example.com](mailto:smnahidhasansajib@gmail.com)
 
 ---
 
